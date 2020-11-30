@@ -5,12 +5,29 @@ body {
 
 h4 {
     text-align: center;
+    font-size: 68px;
+    font-weight: 80;
+    color: teal;
     }
 #hello {
     text-align: center;
+    font-size: 30px;
+    color: teal;
     }
+
+#aboutme {
+    font-size: medium;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
 
 
 p {
     text-align: justify;
+  }
+
+  #email {
+      color: black;
+      font-size: 20px;
+      
   }
