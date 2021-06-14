@@ -1,55 +1,21 @@
-html,
-body {
-    background-color:whitesmoke;
-    margin:0;
-    padding:0;
-    height:100%;
-}
-
-#container {
-    min-height:100%;
-    position:relative;
-}
-
-
-#header {
+#inf{
     text-align: center;
-    font-size: 68px;
-    font-weight: 80;
-    color: teal;
-    }
- 
-#body {
-    padding:10px;
-    padding-bottom:60px;    
+    margin-top: 10%;
+    margin-bottom: 10%;
 }
 
-.imgz {
-    width: 200px;
-    border-radius: 50%;
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40%;
+}
+
+img{
+    width: 140px;
+    height: 140px;
+    display: block;
+
+    
     
 }
-#hello {
-    text-align: center;
-    font-size: 30px;
-    color: teal;
-    }
-
-#aboutme {
-    text-align: center;
-    font-size: medium;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
-}
-
-
-p {
-    text-align: justify;
-  }
-
-  #email {
-      color: black;
-      font-size: 20px;
-      
-  }
 
